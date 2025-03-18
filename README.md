@@ -56,9 +56,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter) - your.email@example.com
+Your Name - JC
 
-Project Link: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+Project Link: [[https://github.com/yourusername/your-repo](https://github.com/innovationprotolab/BlueChat]([https://github.com/yourusername/your-repo](https://github.com/innovationprotolab/BlueChat)
 
 ## Acknowledgments
 
