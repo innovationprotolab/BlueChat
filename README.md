@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - JC
 
-Project Link: [[https://github.com/yourusername/your-repo](https://github.com/innovationprotolab/BlueChat]([https://github.com/yourusername/your-repo](https://github.com/innovationprotolab/BlueChat)
+Project Link: [https://github.com/innovationprotolab/BlueChat](https://github.com/innovationprotolab/BlueChat)
 
 ## Acknowledgments
 
